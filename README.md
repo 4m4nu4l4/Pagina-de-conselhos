@@ -1,4 +1,4 @@
-# WishDaily ✨
+# WishDaily ✨✨
 
 **WishDaily** é uma aplicação web criada para inspirar e motivar seus dias, permitindo que os usuários leiam e registrem seus próprios conselhos e desejos. Com uma interface intuitiva e uma experiência fluida, o sistema oferece uma série de recursos que tornam o acompanhamento de conselhos diários mais envolvente e pessoal.
 
